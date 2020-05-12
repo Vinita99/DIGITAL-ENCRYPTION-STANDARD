@@ -5,8 +5,6 @@ Language Used - Java Core
 
 Concept Used - Swing
 
-Database Used - MySQL
-
 IDE Used - Netbeans
 
 ![](projectscreenshots/dashboard.PNG)
